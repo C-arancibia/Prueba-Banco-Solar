@@ -1,0 +1,17 @@
+{
+  "name": "Prueba banco solar",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba para Banco Solar",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
