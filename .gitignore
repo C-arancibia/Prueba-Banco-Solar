@@ -1,0 +1,15 @@
+# Ignorar node_modules y archivos compilados
+node_modules/
+dist/
+
+# Ignorar archivos de configuración local
+.env
+.env.local
+
+# Ignorar archivos de respaldo y logs
+*.bak
+*.log
+
+# Otros archivos y directorios que no deben ser rastreados
+.DS_Store
+Thumbs.db
